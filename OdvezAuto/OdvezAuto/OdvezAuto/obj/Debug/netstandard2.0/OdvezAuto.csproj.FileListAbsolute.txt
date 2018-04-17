@@ -1,0 +1,9 @@
+C:\Users\janpe\source\repos\OdvezAuto\OdvezAuto\OdvezAuto\bin\Debug\netstandard2.0\OdvezAuto.deps.json
+C:\Users\janpe\source\repos\OdvezAuto\OdvezAuto\OdvezAuto\bin\Debug\netstandard2.0\OdvezAuto.dll
+C:\Users\janpe\source\repos\OdvezAuto\OdvezAuto\OdvezAuto\bin\Debug\netstandard2.0\OdvezAuto.pdb
+C:\Users\janpe\source\repos\OdvezAuto\OdvezAuto\OdvezAuto\obj\Debug\netstandard2.0\OdvezAuto.csproj.CoreCompileInputs.cache
+C:\Users\janpe\source\repos\OdvezAuto\OdvezAuto\OdvezAuto\obj\Debug\netstandard2.0\OdvezAuto.AssemblyInfoInputs.cache
+C:\Users\janpe\source\repos\OdvezAuto\OdvezAuto\OdvezAuto\obj\Debug\netstandard2.0\OdvezAuto.AssemblyInfo.cs
+C:\Users\janpe\source\repos\OdvezAuto\OdvezAuto\OdvezAuto\obj\Debug\netstandard2.0\OdvezAuto.dll
+C:\Users\janpe\source\repos\OdvezAuto\OdvezAuto\OdvezAuto\obj\Debug\netstandard2.0\OdvezAuto.pdb
+C:\Users\janpe\source\repos\OdvezAuto\OdvezAuto\OdvezAuto\obj\Debug\netstandard2.0\OdvezAuto.csprojResolveAssemblyReference.cache

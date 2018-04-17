@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:orientation="horizontal">
+
+  <ImageView
+    android:layout_width="46dp"
+    android:layout_height="46dp"
+    android:id="@+id/RowImageView"/>
+
+  <LinearLayout
+    android:layout_width="0dp"
+    android:layout_height="46dp"
+    android:orientation="vertical"
+    android:layout_weight="1">
+
+    <TextView
+      android:id="@+id/BrandTypeList"
+      android:layout_width="wrap_content"
+      android:layout_height="23dp"
+      android:padding="2dp"
+      android:text="Znacka"/>
+
+    <TextView
+      android:id="@+id/PriceList"
+      android:layout_width="wrap_content"
+      android:layout_height="23dp"
+      android:padding="2dp"
+      android:text="Cena"/>
+
+  </LinearLayout>
+
+</LinearLayout>

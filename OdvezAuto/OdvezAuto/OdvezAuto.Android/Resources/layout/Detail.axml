@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent">
+  <LinearLayout 
+      android:layout_width="match_parent"
+      android:layout_height="match_parent"
+      android:orientation="vertical"
+      android:paddingLeft="20dp">
+
+    <RelativeLayout
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content">
+
+      <Button
+        android:id="@+id/BackButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="« Back" />
+            
+      <Button
+        android:id="@+id/EditButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:text="Edit" />
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+      <TextView
+          android:layout_width="0dp"
+          android:layout_height="wrap_content"
+          android:text="Brand:"
+          android:padding="2dp"
+          android:layout_weight="1"/>
+      <TextView
+          android:layout_width="0dp"
+          android:layout_height="wrap_content"
+          android:padding="2dp"
+          android:layout_weight="1"
+          android:id="@+id/BrandDetail"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+      <TextView
+          android:layout_width="0dp"
+          android:layout_height="wrap_content"
+          android:text="Type:"
+          android:padding="2dp"
+          android:layout_weight="1" />
+      <TextView
+          android:layout_width="0dp"
+          android:layout_height="wrap_content"
+          android:padding="2dp"
+          android:layout_weight="1"
+          android:id="@+id/TypeDetail"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+      <TextView
+          android:layout_width="0dp"
+          android:layout_height="wrap_content"
+          android:text="State:"
+          android:padding="2dp"
+          android:layout_weight="1" />
+      <TextView
+          android:layout_width="0dp"
+          android:layout_height="wrap_content"
+          android:padding="2dp"
+          android:layout_weight="1"
+          android:id="@+id/StateDetail"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+      <TextView
+          android:layout_width="0dp"
+          android:layout_height="wrap_content"
+          android:text="Kilometers:"
+          android:padding="2dp"
+          android:layout_weight="1" />
+      <TextView
+          android:layout_width="0dp"
+          android:layout_height="wrap_content"
+          android:padding="2dp"
+          android:layout_weight="1"
+          android:id="@+id/KilometersDetail"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+      <TextView
+          android:layout_width="0dp"
+          android:layout_height="wrap_content"
+          android:text="Power:"
+          android:padding="2dp"
+          android:layout_weight="1"/>
+      <TextView
+          android:layout_width="0dp"
+          android:layout_height="wrap_content"
+          android:padding="2dp"
+          android:layout_weight="1"
+          android:id="@+id/PowerDetail"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+      <TextView
+          android:layout_width="0dp"
+          android:layout_height="wrap_content"
+          android:text="Torque:"
+          android:padding="2dp"
+          android:layout_weight="1" />
+      <TextView
+          android:layout_width="0dp"
+          android:layout_height="wrap_content"
+          android:padding="2dp"
+          android:layout_weight="1"
+          android:id="@+id/TorqueDetail"/>
+    </LinearLayout>
+
+    <ImageView
+        android:layout_width="220dp"
+        android:layout_height="220dp"
+        android:layout_gravity="center"
+        android:id="@+id/PictureZoom"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="2dp"
+        android:layout_gravity="center"
+        android:id="@+id/PriceDetail"/>
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Buy it!"
+        android:layout_gravity="center"
+        android:id="@+id/BuyButton"/>
+
+  </LinearLayout>
+</ScrollView>

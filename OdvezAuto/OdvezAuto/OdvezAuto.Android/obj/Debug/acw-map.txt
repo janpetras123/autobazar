@@ -1,0 +1,32 @@
+OdvezAuto.Droid.Activity.Login.LoginActivity, OdvezAuto.Android;md5aef0db5f6a0a7e7ad848e76b7118bec5.LoginActivity
+OdvezAuto.Droid.Activity.Login.LoginActivity, OdvezAuto.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5aef0db5f6a0a7e7ad848e76b7118bec5.LoginActivity
+OdvezAuto.Droid.Activity.Login.LoginActivity;md5aef0db5f6a0a7e7ad848e76b7118bec5.LoginActivity
+odvezauto.droid.activity.login.LoginActivity;md5aef0db5f6a0a7e7ad848e76b7118bec5.LoginActivity
+OdvezAuto.Droid.Activity.EditCar.EditActivity, OdvezAuto.Android;md5da3d0461554f9fb65525f2b11e90dfd6.EditActivity
+OdvezAuto.Droid.Activity.EditCar.EditActivity, OdvezAuto.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5da3d0461554f9fb65525f2b11e90dfd6.EditActivity
+OdvezAuto.Droid.Activity.EditCar.EditActivity;md5da3d0461554f9fb65525f2b11e90dfd6.EditActivity
+odvezauto.droid.activity.editcar.EditActivity;md5da3d0461554f9fb65525f2b11e90dfd6.EditActivity
+OdvezAuto.Droid.Activity.ListOfCars.CarListRow, OdvezAuto.Android;md5d0cc0b90f19d5fa319d07d44e1f78dd1.CarListRow
+OdvezAuto.Droid.Activity.ListOfCars.CarListRow, OdvezAuto.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5d0cc0b90f19d5fa319d07d44e1f78dd1.CarListRow
+OdvezAuto.Droid.Activity.ListOfCars.CarListRow;md5d0cc0b90f19d5fa319d07d44e1f78dd1.CarListRow
+odvezauto.droid.activity.listofcars.CarListRow;md5d0cc0b90f19d5fa319d07d44e1f78dd1.CarListRow
+OdvezAuto.Droid.Activity.ListOfCars.CarAdapter, OdvezAuto.Android;md5d0cc0b90f19d5fa319d07d44e1f78dd1.CarAdapter
+OdvezAuto.Droid.Activity.ListOfCars.CarAdapter, OdvezAuto.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5d0cc0b90f19d5fa319d07d44e1f78dd1.CarAdapter
+OdvezAuto.Droid.Activity.ListOfCars.CarAdapter;md5d0cc0b90f19d5fa319d07d44e1f78dd1.CarAdapter
+odvezauto.droid.activity.listofcars.CarAdapter;md5d0cc0b90f19d5fa319d07d44e1f78dd1.CarAdapter
+OdvezAuto.Droid.Activity.ListOfCars.ListActivity, OdvezAuto.Android;md5d0cc0b90f19d5fa319d07d44e1f78dd1.ListActivity
+OdvezAuto.Droid.Activity.ListOfCars.ListActivity, OdvezAuto.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5d0cc0b90f19d5fa319d07d44e1f78dd1.ListActivity
+OdvezAuto.Droid.Activity.ListOfCars.ListActivity;md5d0cc0b90f19d5fa319d07d44e1f78dd1.ListActivity
+odvezauto.droid.activity.listofcars.ListActivity;md5d0cc0b90f19d5fa319d07d44e1f78dd1.ListActivity
+OdvezAuto.Droid.Activity.CarDetail.DetailActivity, OdvezAuto.Android;md50e5cff853e505e2d73e89d78b9400dc0.DetailActivity
+OdvezAuto.Droid.Activity.CarDetail.DetailActivity, OdvezAuto.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md50e5cff853e505e2d73e89d78b9400dc0.DetailActivity
+OdvezAuto.Droid.Activity.CarDetail.DetailActivity;md50e5cff853e505e2d73e89d78b9400dc0.DetailActivity
+odvezauto.droid.activity.cardetail.DetailActivity;md50e5cff853e505e2d73e89d78b9400dc0.DetailActivity
+OdvezAuto.Droid.Activity.CarDetail.ZoomActivity, OdvezAuto.Android;md50e5cff853e505e2d73e89d78b9400dc0.ZoomActivity
+OdvezAuto.Droid.Activity.CarDetail.ZoomActivity, OdvezAuto.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md50e5cff853e505e2d73e89d78b9400dc0.ZoomActivity
+OdvezAuto.Droid.Activity.CarDetail.ZoomActivity;md50e5cff853e505e2d73e89d78b9400dc0.ZoomActivity
+odvezauto.droid.activity.cardetail.ZoomActivity;md50e5cff853e505e2d73e89d78b9400dc0.ZoomActivity
+OdvezAuto.Droid.Activity.AddCar.AddActivity, OdvezAuto.Android;md5aaa6a2f3d919d4fde96aed64f28664d1.AddActivity
+OdvezAuto.Droid.Activity.AddCar.AddActivity, OdvezAuto.Android, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5aaa6a2f3d919d4fde96aed64f28664d1.AddActivity
+OdvezAuto.Droid.Activity.AddCar.AddActivity;md5aaa6a2f3d919d4fde96aed64f28664d1.AddActivity
+odvezauto.droid.activity.addcar.AddActivity;md5aaa6a2f3d919d4fde96aed64f28664d1.AddActivity
